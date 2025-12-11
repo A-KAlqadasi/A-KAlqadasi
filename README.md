@@ -1,18 +1,70 @@
-### Hi there 👋, my name is Abdulkareem Shawqi
-#### I am Full Stack Developer
-Hello, I'm Abdulkareem Shawqi Yousef Ahmed, an aspiring Full-Stack Developer with a strong focus on backend development. I specialize in creating robust APIs using ASP.NET Core, Clean Architecture, and SOLID principles, and I ensure high code quality through professional Unit, Subcutaneous, and Integration Test.
+# 👋 Hi, I'm Abdulkareem Shawqi Yousef Ahmed
 
-Currently, I'm pursuing my Bachelor's in Computer Science at Sana’a University (expected graduation 2025-2026). I'm passionate about scalable system design and continuously expanding my technical expertise. As part of my learning journey, I'm gearing up to master modern DevOps techniques.
+🎯 Aspiring Software Architect | 💻 Backend Developer | 🌍 Based in Sana'a, Yemen  
+📧 abdulkareem.ahmed.dev@gmail.com | 🔗 [My GitHub Organization](https://github.com/orgnization/ssfvision)
 
-I thrive in collaborative environments, value effective communication, and enjoy mentoring and sharing knowledge with my peers. Whether I'm solving complex problems or contributing as a trainer, I bring a proactive, dedicated attitude to every project.
+---
 
-Feel free to explore my projects here on GitHub and connect if you'd like to collaborate or learn more about my work!
+## 🧠 About Me
 
-Skills: C#/ ASP.NET Core/ RESTful APIs/ EF Core & ADO.NET/ MS SQL Server, T-SQL/ Database Design/ SOLID principles/ Clean Architecture
+I’m a passionate and self-driven .NET backend developer focused on building **production-grade APIs** and **scalable backend systems** that follow **clean architecture, DDD, and SOLID principles**.
 
-- 🌱 I’m currently learning Java Script and toward React.js 
-- 📫 How to reach me: abdulkareemalqa@gmail.com 
+My goal is simple: **build software that matters — not toy projects, but systems that can be used globally** and meet real-world enterprise needs.
 
+- 🏥 Currently contributing to a real hospital management system @SSFVision
+- 📚 Final year Computer Science student at Sana’a University (graduating Feb 2026)
+- ⚙️ Always learning: Docker, GitHub Actions, ABP Framework, and more
+- 🤖 AI is part of my toolkit: GitHub Copilot + ChatGPT Business = 🔥 productivity
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/A-KAlqadsi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1FhRAfXKDb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abdlkrmshawqi)  
+---
+
+## 🧰 Tech Stack
+
+**Languages**:  
+`C#` `T-SQL` `JavaScript (basic)`
+
+**Frameworks & Architecture**:  
+`.NET Core` `ASP.NET Core` `Entity Framework Core` `ABP Framework (learning)`  
+`Clean Architecture` `Vertical Slice Architecture` `Domain-Driven Design (DDD)`
+
+**Databases**:  
+`SQL Server` `PostgreSQL`
+
+**Tools & DevOps**:  
+`Git` `GitHub` `GitHub Copilot` `ChatGPT` `Docker` `GitHub Actions (CI/CD)`
+
+---
+
+## 🚀 Projects
+
+### 🏥 Hospital Management System (Private Repo – SSFVision Org)
+- Contributed to real production system backend
+- Built APIs, optimized SQL queries, implemented Clean Architecture
+- Collaborated with remote team on GitHub
+
+> 📍 *Looking to open source more in 2025. Stay tuned!*
+
+---
+
+## 📚 Learning & Certifications
+
+- 🧠 **Production-Ready RESTful APIs** – Metigator  
+- 🧠 **Full Backend Developer Roadmap** – Programming Advices
+
+---
+
+## 📫 Contact Me
+
+Feel free to reach out for collaboration, remote job opportunities, or open-source projects.
+
+- ✉️ Email: abdulkareem.ahmed.dev@gmail.com  
+- 🌍 GitHub: [github.com/A-KAlqadasi](https://github.com/A-KAlqadasi)
+
+---
+
+## ⚡ Fun Fact
+
+I’m a fast learner who can master deep topics in weeks — if I don’t know something today, I’ll probably know it next week.
+
+---
 
