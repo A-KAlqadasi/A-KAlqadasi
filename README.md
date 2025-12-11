@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdulkareem Shawqi Yousef Ahmed
 
 🎯 Aspiring Software Architect | 💻 Backend Developer | 🌍 Based in Sana'a, Yemen  
-📧 abdulkareem.ahmed.dev@gmail.com | 🔗 [My GitHub Organization](https://github.com/orgnization/ssfvision)
+📧 abdulkareem.ahmed.dev@gmail.com | 🔗 [My GitHub Organization](https://github.com/orgs/ssfvision)
 
 ---
 
