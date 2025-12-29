@@ -13,7 +13,7 @@ My goal is simple: **build software that matters — not toy projects, but syste
 
 - 🏥 Currently contributing to a real hospital management system @SSFVision
 - 📚 Final year Computer Science student at Sana’a University (graduating Feb 2026)
-- ⚙️ Always learning: Docker, GitHub Actions, ABP Framework, and more
+- ⚙️ Always learning: Docker, GitHub Actions, and more
 - 🤖 AI is part of my toolkit: GitHub Copilot + ChatGPT Business = 🔥 productivity
 
 ---
@@ -37,12 +37,12 @@ My goal is simple: **build software that matters — not toy projects, but syste
 
 ## 🚀 Projects
 
-### 🏥 Hospital Management System (Private Repo – SSFVision Org)
+### 🏥 Alatraf Management System (Private Repo – SSFVision Org)
 - Contributed to real production system backend
 - Built APIs, optimized SQL queries, implemented Clean Architecture
 - Collaborated with remote team on GitHub
 
-> 📍 *Looking to open source more in 2025. Stay tuned!*
+> 📍 *Looking to open source more in 2026. Stay tuned!*
 
 ---
 
